@@ -3,7 +3,7 @@ Level 2
 #Desert Race
 
 __Introduction:__
-This game is a two player game where you race a parrot and a lion across the desert. Each player has to press a key as fast as they can to move their animal, the first one to reach the edge of the screen wins.
+This game is a two player game where you race a parrot and a lion across the desert. Each player has to press a key as fast as they can to move their animal. The first one to reach the edge of the screen wins.
 
 
 ##STEP 1: Create the scene and add the sprites
@@ -18,7 +18,7 @@ ticking off the boxes below:
 ##STEP 2: Make the lion and the parrot move
 
 
-We want the sprite to move when you press a key.
+We want the sprites to move when you press a key.
 
 
 1. First select the lion sprite and set it to move 4 steps when you press the ‘L’ key.
@@ -71,7 +71,7 @@ We need to have a way to start the race and to know who has won. __First we crea
 ###Test Your Project
 __Click on the green flag.__
 
-When you press the start button does it countdown to the start of the race before disappearing?
+When you press the start button, does it countdown to the start of the race before disappearing?
 
 Save your project
 
@@ -191,8 +191,7 @@ when we click the flag.
 __Click on the green flag.__
 
 
-Can you race against a friend, one of you moving the parrot by pressing ‘A’ and the
-other moving the Lion by pressing ‘L’?
+Can you race against a friend, one of you moving the parrot by pressing ‘A’ and the other moving the lion by pressing ‘L’?
 
 Save your project
 
